@@ -1,0 +1,17 @@
+{
+  "token": "DEIN_BOT_TOKEN_HIER_EINFÜGEN",
+  "guild_id": null,
+  "mod_role": "Moderation",
+  "admin_role": "Admin",
+  "owner_role": "Owner",
+  "modlog_channel_id": null,
+  "report_channel_id": null,
+  "join_gate_role": "Unverified",
+  "restricted_role": "Restricted",
+  "verified_role": "Verified",
+  "nsfw_role": "Verified 18+",
+  "ticket_category": "kvitravn-support-tickets",
+  "ticket_panel_channel_id": null,
+  "voice_count_channel_id": null,
+  "auto_join_voice": true
+}
